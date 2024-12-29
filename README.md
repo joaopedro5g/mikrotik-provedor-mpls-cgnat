@@ -31,4 +31,4 @@ A rede é composta pelos seguintes elementos principais:
 - **MPLS**: Multiprotocol Label Switching, utilizado para criar túneis de comunicação entre as filiais SP e RJ.
 - **VLAN 402**: Configuração de VLAN usada para a comunicação na filial SP.
 
-<img src="/topologia.png" />
+<img src="https://raw.githubusercontent.com/joaopedro5g/mikrotik-provedor-mpls-cgnat/refs/heads/main/topologia.PNG" />
